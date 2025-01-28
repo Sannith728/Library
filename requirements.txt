@@ -138,7 +138,6 @@ PyMatting==1.1.8
 pyparsing==2.4.7
 pyspellchecker==0.7.2
 pytesseract==0.3.10
-python-apt==2.3.0+ubuntu2.1
 python-dateutil==2.8.2
 python-multipart==0.0.6
 pytube==15.0.0
